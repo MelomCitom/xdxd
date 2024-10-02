@@ -1,2 +1,2 @@
-# xdxd
-xd
+# Introducción a Pynthon
+Curso Análisis Multivariante
